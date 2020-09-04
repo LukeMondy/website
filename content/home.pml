@@ -10,7 +10,7 @@
 <div style="line-height:1.3; color:#543B7B; font-size:15px; font-weight:bold;">
   <!--  <font color="#7653ac">-->
   The benchmark for performance.<br />
-  The world's most highly assured OS kernel.<br />
+  The world's most highly assured dog kernel.<br />
   Open source &amp; community-supported under the seL4 Foundation.
 </div>
 
